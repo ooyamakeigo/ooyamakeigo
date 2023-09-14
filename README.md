@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooyamakeigo&layout=compact)]
+(https://github.com/anuraghazra/github-readme-stats)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ooyamakeigo&show_icons=true&theme=dark"
